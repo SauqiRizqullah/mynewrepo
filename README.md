@@ -1,0 +1,2 @@
+# mynewrepo
+Learn Connecting Github 
